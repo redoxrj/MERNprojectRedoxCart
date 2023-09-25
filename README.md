@@ -13,23 +13,23 @@ Hi! My name is **Rajnish Kumar**, I have made this ecommerce app using MERN stac
 
 # Key Features
 
-✅ You can register/login with email password (image upload coming very soon)
-✅ You can search and filter products by their category,price and ratings.
-✅ You can also give reviews to any products you wish.
-✅ You can Buy products using real Credit and debit cards ,but for testing purpose you can follow below 👇:
+✅ You can register/login with email password (image upload coming very soon) <br>
+✅ You can search and filter products by their category,price and ratings.<br>
+✅ You can also give reviews to any products you wish.<br>
+✅ You can Buy products using real Credit and debit cards ,but for testing purpose you can follow below 👇:<br>
 
 Card no : 4242 4242 4242 4242
 Expiry: 04/34 (any future expiring date)
-Cv: 566 (any 3 digits)
+Cv: 566 (any 3 digits)<br>
 
-✅Being an Admin you can access Dashboard Options where you can see all the products, users and orders statistics.
-✅Being an Admin you can process orders status (Shipped and Deliver).
+✅Being an Admin you can access Dashboard Options where you can see all the products, users and orders statistics.<br>
+✅Being an Admin you can process orders status (Shipped and Deliver).<br>
 
-✅ You can update your profile, password.
-✅ And many more....
+✅ You can update your profile, password.<br>
+✅ And many more....<br>
 
 
-🔗 link : https://lnkd.in/ddZmqbHc
+🔗 link : https://lnkd.in/ddZmqbHc<br>
 
 ## Deployed
 So what are u waiting for Go ,checkout and explore this amazing web app 🚀
